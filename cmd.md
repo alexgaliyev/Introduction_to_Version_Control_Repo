@@ -44,4 +44,8 @@ git diff
 # Master 1
 # Master 2
 # Master 3
+<<<<<<< HEAD
 # Masterok 4
+=======
+# Master 4
+>>>>>>> master_4
